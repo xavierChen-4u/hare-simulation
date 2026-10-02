@@ -1,0 +1,61 @@
+"scenario","lambda","label_budget","method","completed_replications","finite_estimates"
+"lambda_0",0,100,"Bridge-Constant",50,50
+"lambda_0",0,100,"Kallus Oracle",50,50
+"lambda_0",0,100,"Kallus-GBM",50,50
+"lambda_0",0,100,"OI-GBM",50,50
+"lambda_0",0,200,"Bridge-Constant",50,50
+"lambda_0",0,200,"Kallus Oracle",50,50
+"lambda_0",0,200,"Kallus-GBM",50,50
+"lambda_0",0,200,"OI-GBM",50,50
+"lambda_0",0,400,"Bridge-Constant",50,50
+"lambda_0",0,400,"Kallus Oracle",50,50
+"lambda_0",0,400,"Kallus-GBM",50,50
+"lambda_0",0,400,"OI-GBM",50,50
+"lambda_0",0,800,"Bridge-Constant",50,50
+"lambda_0",0,800,"Kallus Oracle",50,50
+"lambda_0",0,800,"Kallus-GBM",50,50
+"lambda_0",0,800,"OI-GBM",50,50
+"lambda_0",0,1600,"Bridge-Constant",50,50
+"lambda_0",0,1600,"Kallus Oracle",50,50
+"lambda_0",0,1600,"Kallus-GBM",50,50
+"lambda_0",0,1600,"OI-GBM",50,50
+"lambda_0p5",0.5,100,"Bridge-Constant",50,50
+"lambda_0p5",0.5,100,"Kallus Oracle",50,50
+"lambda_0p5",0.5,100,"Kallus-GBM",50,50
+"lambda_0p5",0.5,100,"OI-GBM",50,50
+"lambda_0p5",0.5,200,"Bridge-Constant",50,50
+"lambda_0p5",0.5,200,"Kallus Oracle",50,50
+"lambda_0p5",0.5,200,"Kallus-GBM",50,50
+"lambda_0p5",0.5,200,"OI-GBM",50,50
+"lambda_0p5",0.5,400,"Bridge-Constant",50,50
+"lambda_0p5",0.5,400,"Kallus Oracle",50,50
+"lambda_0p5",0.5,400,"Kallus-GBM",50,50
+"lambda_0p5",0.5,400,"OI-GBM",50,50
+"lambda_0p5",0.5,800,"Bridge-Constant",50,50
+"lambda_0p5",0.5,800,"Kallus Oracle",50,50
+"lambda_0p5",0.5,800,"Kallus-GBM",50,50
+"lambda_0p5",0.5,800,"OI-GBM",50,50
+"lambda_0p5",0.5,1600,"Bridge-Constant",50,50
+"lambda_0p5",0.5,1600,"Kallus Oracle",50,50
+"lambda_0p5",0.5,1600,"Kallus-GBM",50,50
+"lambda_0p5",0.5,1600,"OI-GBM",50,50
+"lambda_1",1,100,"Bridge-Constant",50,50
+"lambda_1",1,100,"Kallus Oracle",50,50
+"lambda_1",1,100,"Kallus-GBM",50,50
+"lambda_1",1,100,"OI-GBM",50,50
+"lambda_1",1,200,"Bridge-Constant",50,50
+"lambda_1",1,200,"Kallus Oracle",50,50
+"lambda_1",1,200,"Kallus-GBM",50,50
+"lambda_1",1,200,"OI-GBM",50,50
+"lambda_1",1,400,"Bridge-Constant",50,50
+"lambda_1",1,400,"Kallus Oracle",50,50
+"lambda_1",1,400,"Kallus-GBM",50,50
+"lambda_1",1,400,"OI-GBM",50,50
+"lambda_1",1,800,"Bridge-Constant",50,50
+"lambda_1",1,800,"Kallus Oracle",50,50
+"lambda_1",1,800,"Kallus-GBM",50,50
+"lambda_1",1,800,"OI-GBM",50,50
+"lambda_1",1,1600,"Bridge-Constant",50,50
+"lambda_1",1,1600,"Kallus Oracle",50,50
+"lambda_1",1,1600,"Kallus-GBM",50,50
+"lambda_1",1,1600,"OI-GBM",50,50
